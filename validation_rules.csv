@@ -1,0 +1,11 @@
+rule_id,rule_name,code_1,code_2,description
+R001,Type 1 vs Type 2 Diabetes,E10.9,E11.9,Type 1 and Type 2 diabetes cannot be coded together on the same encounter.
+R002,Hyperlipidemia vs Testicular Hypofunction,E78.2,E29.1,Mixed hyperlipidemia and Testicular hypofunction are mutually exclusive per Excludes1.
+R003,Routine Exam vs Cervical Screening,Z01.419,Z12.4,Routine gynecological exam and cervical cancer screening cannot be billed together.
+R004,LSIL Cytology vs Mild Dysplasia,R87.612,N87.0,Cytology symptom and definitive mild cervical dysplasia diagnosis cannot be paired.
+R005,Essential vs Renovascular Hypertension,I10,I15.0,Primary essential hypertension and renovascular hypertension cannot be coded together.
+R006,Asthma vs Chronic Bronchitis,J45.909,J44.9,Unspecified asthma and chronic obstructive pulmonary disease conflict in primary assignment.
+R007,Acute Pharyngitis vs Strep Throat,J02.9,J02.0,Unspecified acute pharyngitis cannot be paired with streptococcal pharyngitis.
+R008,Uncomplicated vs Complicated GERD,K21.9,K21.0,GERD without esophagitis cannot be coded with GERD with esophagitis.
+R009,Low Back Pain vs Sciatica,M54.5,M54.30,Unspecified low back pain is redundant when specific sciatica is coded.
+R010,Unspecified vs Acute Sinusitis,J01.90,J01.00,Unspecified acute sinusitis cannot be paired with acute maxillary sinusitis.

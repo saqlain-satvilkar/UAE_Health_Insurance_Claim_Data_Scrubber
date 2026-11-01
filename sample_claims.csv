@@ -1,0 +1,13 @@
+Claim_ID,Code,Quantity,Sex,Age,Notes
+CLM-5001,E11.9,1,M,45,Routine check
+CLM-5001,I10,1,M,45,Hypertension follow-up
+CLM-5002,J06.9,1,F,30,Upper respiratory infection
+CLM-5003,K21.9,1,M,50,Acid reflux
+CLM-5004,M54.5,1,F,40,Back pain
+CLM-5005,E78.2,1,M,55,Lipid panel
+CLM-5006,Z01.419,1,F,35,Annual gyn exam
+CLM-5007,J45.909,1,M,25,Asthma check
+CLM-5008,I10,1,F,60,Blood pressure review
+CLM-5009,J02.9,1,M,22,Throat pain
+CLM-5010,E10.9,1,M,40,Invalid diabetes combination test
+CLM-5010,E11.9,1,M,40,Invalid diabetes combination test

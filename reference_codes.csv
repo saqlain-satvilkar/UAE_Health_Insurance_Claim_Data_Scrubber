@@ -1,0 +1,91 @@
+code,code_type,description,category
+E10.9,ICD,Type 1 diabetes mellitus without complications,Endocrine
+E11.9,ICD,Type 2 diabetes mellitus without complications,Endocrine
+E78.2,ICD,Mixed hyperlipidemia,Metabolic
+E29.1,ICD,Testicular hypofunction,Endocrine
+Z01.419,ICD,Encounter for routine gynecological examination,Preventive
+Z12.4,ICD,Encounter for screening for malignant neoplasm of cervix,Preventive
+R87.612,ICD,Abnormal cytologic findings in specimens from cervix,Pathology
+N87.0,ICD,Mild cervical dysplasia,Gynecology
+I10,ICD,Essential (primary) hypertension,Cardiovascular
+I15.0,ICD,Renovascular hypertension,Cardiovascular
+J45.909,ICD,Unspecified asthma, uncomplicated,Respiratory
+J44.9,ICD,Chronic obstructive pulmonary disease, unspecified,Respiratory
+J02.9,ICD,Acute pharyngitis, unspecified,Respiratory
+J02.0,ICD,Streptococcal pharyngitis,Respiratory
+K21.9,ICD,Gastro-esophageal reflux disease without esophagitis,Gastrointestinal
+K21.0,ICD,Gastro-esophageal reflux disease with esophagitis,Gastrointestinal
+M54.5,ICD,Low back pain,Musculoskeletal
+M54.30,ICD,Sciatica, unspecified side,Musculoskeletal
+J01.90,ICD,Acute sinusitis, unspecified,Respiratory
+J01.00,ICD,Acute maxillary sinusitis, unspecified,Respiratory
+O80,ICD,Encounter for full-term uncomplicated delivery,Obstetrics
+O82,ICD,Encounter for caesarean delivery without indication,Obstetrics
+N40,ICD,Benign prostatic hyperplasia without lower urinary tract symptoms,Urology
+C61,ICD,Malignant neoplasm of prostate,Urology
+J06.9,ICD,Acute upper respiratory infection, unspecified,Respiratory
+E78.5,ICD,Hyperlipidemia, unspecified,Endocrine
+99211,CPT,Office or other outpatient visit, 5 minutes,E&M
+99212,CPT,Office or other outpatient visit, 10 minutes,E&M
+99213,CPT,Office or other outpatient visit, 15 minutes,E&M
+99214,CPT,Office or other outpatient visit, 25 minutes,E&M
+99215,CPT,Office or other outpatient visit, 40 minutes,E&M
+71046,CPT,Radiologic examination, chest; 2 views,Radiology
+73030,CPT,Radiologic examination, shoulder; complete,Radiology
+80053,CPT,Comprehensive metabolic panel (CMP),Pathology
+85025,CPT,Complete blood count (CBC),Pathology
+36415,CPT,Collection of venous blood by venipuncture,Pathology
+99221,CPT,Initial hospital care, per day,Inpatient
+99222,CPT,Initial hospital care, per day,Inpatient
+99223,CPT,Initial hospital care, per day,Inpatient
+99231,CPT,Subsequent hospital care, per day,Inpatient
+99232,CPT,Subsequent hospital care, per day,Inpatient
+99233,CPT,Subsequent hospital care, per day,Inpatient
+99281,CPT,Emergency department visit, level 1,Emergency
+99282,CPT,Emergency department visit, level 2,Emergency
+99283,CPT,Emergency department visit, level 3,Emergency
+99284,CPT,Emergency department visit, level 4,Emergency
+99285,CPT,Emergency department visit, level 5,Emergency
+99291,CPT,Critical care, evaluation and management,Critical Care
+93000,CPT,Electrocardiogram, routine ECG with interpretation,Cardiology
+93306,CPT,Echocardiography, real-time with image documentation,Cardiology
+93452,CPT,Left heart catheterization,Cardiology
+70450,CPT,CT scan, head or brain; without contrast,Radiology
+70460,CPT,CT scan, head or brain; with contrast,Radiology
+74177,CPT,CT scan, abdomen and pelvis; with contrast,Radiology
+74176,CPT,CT scan, abdomen and pelvis; without contrast,Radiology
+76700,CPT,Ultrasound, abdominal, real-time; complete,Radiology
+76830,CPT,Ultrasound, transvaginal,Radiology
+81003,CPT,Urinalysis, automated, without microscopy,Pathology
+82947,CPT,Glucose; quantitative, blood,Pathology
+84443,CPT,Assay of thyroid stimulating hormone (TSH),Pathology
+86900,CPT,Blood typing, ABO,Pathology
+86901,CPT,Blood typing, Rh (D),Pathology
+90670,CPT,Pneumococcal conjugate vaccine, 13 valency,Immunization
+90715,CPT,Tetanus, diphtheria, pertussis vaccine,Immunization
+99381,CPT,Initial comprehensive preventive medicine, infant,Preventive
+99391,CPT,Periodic comprehensive preventive medicine, infant,Preventive
+99395,CPT,Periodic comprehensive preventive medicine, adult (18-39),Preventive
+99396,CPT,Periodic comprehensive preventive medicine, adult (40-64),Preventive
+99401,CPT,Preventive medicine counseling, 15 minutes,Preventive
+99497,CPT,Advance care planning, first 30 minutes,Consultation
+59400,CPT,Routine obstetric care including antepartum care,Obstetrics
+59510,CPT,Routine obstetric care including antepartum care, caesarean delivery,Obstetrics
+59840,CPT,Induced abortion, by dilation and curettage,Obstetrics
+69210,CPT,Removal definitive impacted ear wax, unilateral,ENT
+92012,CPT,Eye exam, established patient, intermediate,Ophthalmology
+92014,CPT,Eye exam, established patient, comprehensive,Ophthalmology
+97110,CPT,Therapeutic exercises, 15 minutes,Physical Therapy
+97140,CPT,Manual therapy techniques, 15 minutes,Physical Therapy
+97530,CPT,Therapeutic activities, direct patient contact,Physical Therapy
+29881,CPT,Arthroscopy, knee, surgical; with meniscus repair,Orthopedics
+29880,CPT,Arthroscopy, knee, surgical; with meniscectomy,Orthopedics
+10060,CPT,Incision and drainage of abscess, simple or single,Surgery
+10061,CPT,Incision and drainage of abscess, complicated,Surgery
+11102,CPT,Tangential biopsy of skin, single lesion,Dermatology
+12001,CPT,Simple repair of superficial wounds of scalp, neck, extremities,Surgery
+12041,CPT,Layer closure of wounds of neck, hands, external genitalia,Surgery
+17000,CPT,Destruction of benign or premalignant lesions,Dermatology
+43239,CPT,Esophagogastroduodenoscopy, diagnostic, biopsy,Gastroenterology
+45378,CPT,Colonoscopy, flexible, diagnostic,Gastroenterology
+88305,CPT,Level IV - Surgical pathology, gross and microscopic examination,Pathology
